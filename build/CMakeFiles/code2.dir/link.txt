@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/code2.dir/code2.cpp.o -o code2 

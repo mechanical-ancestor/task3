@@ -1,0 +1,4 @@
+/home/gan/code2_MA/build/CMakeFiles/code1.dir
+/home/gan/code2_MA/build/CMakeFiles/code2.dir
+/home/gan/code2_MA/build/CMakeFiles/edit_cache.dir
+/home/gan/code2_MA/build/CMakeFiles/rebuild_cache.dir
